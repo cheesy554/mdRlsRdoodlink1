@@ -8,8 +8,8 @@
         "mdisk",
         "droplink"
     ],
-    "website": "https://github.com/Amul-jat/mdisk-dood-droplink-bot",
-    "repository": "https://github.com/Amul-jat/mdisk-dood-droplink-bot",
+    "website": "https://github.com/looser88/mdRlsRdoodlink",
+    "repository": "https://github.com/looser88/mdRlsRdoodlink",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token (must add)",
